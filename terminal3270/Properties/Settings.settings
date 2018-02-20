@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="terminal3270.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Hostname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">161.148.40.200</Value>
+    </Setting>
+    <Setting Name="UseSSL" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="TerminalType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">IBM-3278-2-E</Value>
+    </Setting>
+    <Setting Name="HostPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">23000</Value>
+    </Setting>
+    <Setting Name="LUName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,5 @@
+C:\Users\Chivito\Downloads\open3270\trunk\source\Open3270Library\bin\Debug\Open3270.dll
+C:\Users\Chivito\Downloads\open3270\trunk\source\Open3270Library\bin\Debug\Open3270.pdb
+C:\Users\Chivito\Downloads\open3270\trunk\source\Open3270Library\obj\Debug\Open3270Library.csprojResolveAssemblyReference.cache
+C:\Users\Chivito\Downloads\open3270\trunk\source\Open3270Library\obj\Debug\Open3270.dll
+C:\Users\Chivito\Downloads\open3270\trunk\source\Open3270Library\obj\Debug\Open3270.pdb
